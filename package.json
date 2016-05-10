@@ -1,0 +1,25 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "Basic example for a comment box, builded with ReactJS an NodeJS. ",
+  "main": "index.hmtl",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elcirao/reactJS.git"
+  },
+  "author": "Alejandro Soto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elcirao/reactJS/issues"
+  },
+  "homepage": "https://github.com/elcirao/reactJS#readme",
+  "dependencies": {
+    "babel-preset-react": "^6.5.0",
+    "babelify": "^7.3.0",
+    "react": "^15.0.2",
+    "react-dom": "^15.0.2"
+  }
+}
