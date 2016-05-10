@@ -1,7 +1,8 @@
-Comments List example
+Ejemplo lista de comentarios
 ====================
-Ejemplo Básico para una lista de comentarios. Construida con __ReactJS__ y
-__NodeJS__
+Ejemplo Básico para una lista de comentarios, en la cual se puede
+también comentar, con actualización de forma automática.
+Construida con __ReactJS__ y __NodeJS__
 
 ## Requerimientos ##
 * NodeJS 0.10.x
@@ -15,5 +16,4 @@ __NodeJS__
 | PORT                | 3000                               |                                        |
 
 ## Getting Started ##
-
 * node server.js
