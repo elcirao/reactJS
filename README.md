@@ -16,5 +16,5 @@ Construida con __ReactJS__ y __NodeJS__
 | PORT                | 3000                               |                                        |
 
 ## Getting Started ##
-`npm install`
-`node server.js`
+* `npm install`
+* `node server.js`
