@@ -13,3 +13,7 @@ __NodeJS__
 | NODE_ENV            | production                         |                                        |
 | IP                  | 127.0.0.1                          |                                        |
 | PORT                | 3000                               |                                        |
+
+## Getting Started ##
+
+* node server.js
