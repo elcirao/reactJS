@@ -3,7 +3,7 @@ var path = require('path');
 var express = require('express');
 var bodyParser = require('body-parser');
 var app = express();
-
+//TEST
 // Look for comments
 var COMMENTS_FILE = path.join(__dirname, 'comments.json');
 
